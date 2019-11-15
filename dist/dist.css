@@ -2,8 +2,8 @@
 @import url('https://fontlibrary.org/face/css?office-code-pro');
 */
 .app .section{
-    font-size: 15px;
-    font-family:Open Sans;
+    font-size: 15px !important;
+    font-family:Open Sans !important;
 
 }
 
@@ -12,39 +12,39 @@
 }
 
 #column-resizer {
-    width: 13px;
-    background-color: #e4e4e4;
-    position: absolute;
-    left: 50%;
-    height: 100%;
+    width: 13px !important;
+    background-color: #e4e4e4 !important;
+    position: absolute !important;
+    left: 50% !important;
+    height: 100% !important;
     flex: 0;
     cursor: col-resize
 }
 
 .editor-content .editable {
-    font-family: Office Code Pro D;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.7;
-    color: #05A;
-    background-color:#F5F5F5;
+    font-family: Office Code Pro D !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 1.7 !important;
+    color: #05A !important;
+    background-color:#F5F5F5 !important;
 }
 
 
 #editor {
-    font-family: Office Code Pro D;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.7;
-    color: #05A;
-    background-color:#F5F5F5;
+    font-family: Office Code Pro D !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 1.7 !important;
+    color: #05A !important;
+    background-color:#F5F5F5 !important;
 }
 
 #preview {
-    font-family:Open Sans;
-    font-size: 15px;
-    line-height: 1.5;
-    color: #333333;
-	background-color:#F5F5F5;
+    font-family:Open Sans !important;
+    font-size: 15px !important;
+    line-height: 1.5 !important;
+    color: #333333 !important;
+	background-color:#F5F5F5 !important;
 
 }
