@@ -1,0 +1,50 @@
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fontlibrary.org/face/css?office-code-pro');
+*/
+.app .section{
+    font-size: 15px;
+    font-family:Open Sans;
+
+}
+
+.note-preview {
+   font-size: 14px !important;
+}
+
+#column-resizer {
+    width: 13px;
+    background-color: #e4e4e4;
+    position: absolute;
+    left: 50%;
+    height: 100%;
+    flex: 0;
+    cursor: col-resize
+}
+
+.editor-content .editable {
+    font-family: Office Code Pro D;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #05A;
+    background-color:#F5F5F5;
+}
+
+
+#editor {
+    font-family: Office Code Pro D;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #05A;
+    background-color:#F5F5F5;
+}
+
+#preview {
+    font-family:Open Sans;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #333333;
+	background-color:#F5F5F5;
+
+}
